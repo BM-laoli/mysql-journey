@@ -1,0 +1,11 @@
+{
+  "name": "mysql-journey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BM-laoli/mysql-journey.git",
+  "author": "joney <joney.s.li@newegg.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
