@@ -14,6 +14,11 @@ connection.connect((info,info2)=>{
   console.log('====================================');
 });
  
+try {
+  
+} catch (error) {
+  
+}
 var  sql = 'SELECT * FROM table1';   //查询table1表的所有数据
 
 connection.query(sql,function (err, result) {
